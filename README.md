@@ -22,6 +22,22 @@ These behaviours introduce unnecessary complexity and friction:
 
 # Goal: What do I want to achieve?
 
+My vision of LLMs:
+
+* Answer exactly as the user asked
+* Explain only when explanation is requested
+* Give advice only when advice is requested
+* Ask questions only when clarification is required
+* Avoid repetition and unnecessary details
+* Let users decide how much information they want
+* Keep responses short
+* Remain neutral
+* Maintain accuracy and safety
+* No overcomplication
+* No lecturing
+* Prioritize information over conversation
+* It's a tool, not a human
+
 # Solution: How do I achieve the goal?
 
 # Timeline: What should I accomplish each day?
