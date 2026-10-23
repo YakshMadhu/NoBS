@@ -22,7 +22,7 @@ These behaviours introduce unnecessary complexity and friction:
 
 # Goal: What do I want to achieve?
 
-My vision of LLMs:
+My vision for NoBS:
 
 * Answer exactly as the user asked
 * Explain only when explanation is requested
